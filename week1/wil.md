@@ -5,7 +5,7 @@ http 주요 상태코드 200 ,201, 400, 404, 500
 내가 몰랐던 세계가 있다... 그냥 막 쓰던 홈페이지가 DB와 requset와 response로 나한테 화면을 보여준다니... 
 404 not found만 알고 있었는데 그 외에도 많은 상태가 있다는거.... 신기하고 빨리 배우고싶다 ^^
 
-![Whitelabel Error Page가 떴다면 성공](localhost8080-1.png)
+![Whitelabel Error Page가 떴다면 성공](localhost8080.png)
 
 상품 정보 등록
 HTTP Method : POST
